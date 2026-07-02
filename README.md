@@ -4,7 +4,7 @@ Reproducible regression case studies using R, missing-data imputation, transform
 
 ## Overview
 
-This repository contains two AMS 315 regression case studies organized as a clean, runnable R portfolio project. The goal is to show an end-to-end statistical workflow: prepare data, handle missing values, fit models, compare transformations, diagnose assumptions, and save readable outputs.
+This repository contains two college regression case studies organized as a clean, runnable R portfolio project. The goal is to show an end-to-end statistical workflow: prepare data, handle missing values, fit models, compare transformations, diagnose assumptions, and save readable outputs.
 
 The datasets are synthetic educational datasets assigned for coursework. They are not real medical, genetic, or patient data. Assignment PDFs, handouts, full class dataset archives, and other students' data are intentionally excluded.
 
@@ -75,38 +75,6 @@ Adjusted R-squared about 0.4241
 ```
 
 The interaction scans are diagnostic outputs. They do not silently replace the report-selected model.
-
-## Repository structure
-
-```text
-.
-|-- data/
-|   |-- README.md
-|   `-- raw/
-|       |-- project1/
-|       |   |-- 117453_IV.csv
-|       |   |-- 117453_DV.csv
-|       |   `-- 117453_partB.csv
-|       `-- project2/
-|           `-- P2_117453.csv
-|-- docs/
-|   |-- CODEX_PROMPT.md
-|   |-- GITHUB_SETUP.md
-|   `-- PORTFOLIO_COPY.md
-|-- project1_simple_regression/
-|   |-- scripts/
-|   |-- figures/
-|   |-- results/
-|   `-- README.md
-|-- project2_multiple_regression/
-|   |-- scripts/
-|   |-- figures/
-|   |-- results/
-|   `-- README.md
-|-- install_packages.R
-|-- run_all.R
-`-- README.md
-```
 
 ## How to run
 

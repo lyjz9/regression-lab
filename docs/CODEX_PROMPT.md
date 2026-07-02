@@ -4,7 +4,7 @@ You are helping me polish a GitHub portfolio repository called `regression-lab`.
 
 ## Context
 
-This repo contains two R-based regression projects from AMS 315 Data Analysis. The goal is to turn my coursework into a clean, reproducible, recruiter-friendly GitHub project without changing the statistical story.
+This repo contains two R-based college regression projects. The goal is to turn my coursework into a clean, reproducible, recruiter-friendly GitHub project without changing the statistical story.
 
 The original code was not saved, so the current scripts were reconstructed from my final reports, datasets, and class handout workflow. Please improve the repo carefully and keep the analysis faithful to the reports.
 

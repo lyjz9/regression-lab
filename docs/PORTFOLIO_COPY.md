@@ -6,7 +6,7 @@ Reproducible regression case studies using R, missing-data imputation, transform
 
 ## Project Summary
 
-This project turns two AMS 315 regression case studies into a clean, portfolio-ready R workflow. It shows how I organize raw data, write reproducible scripts, handle missing values, test transformations, fit regression models, and save readable outputs for review.
+This project turns two college regression case studies into a clean, portfolio-ready R workflow. It shows how I organize raw data, write reproducible scripts, handle missing values, test transformations, fit regression models, and save readable outputs for review.
 
 Project 2 uses synthetic educational variables, including simulated environmental and gene-indicator columns. It should be read as a statistics and modeling exercise, not as real medical or genetic research.
 
@@ -61,7 +61,7 @@ Reproducible R regression lab with missing-data imputation, transformation testi
 
 ### Longer Project Detail Version
 
-This project organizes two AMS 315 regression case studies into a clean, runnable R portfolio repository. I used R to prepare synthetic course datasets, check missingness, apply MICE imputation, fit simple and multiple regression models, compare transformations, run an approximate lack-of-fit test, evaluate a Box-Cox transformation, and save model outputs and diagnostic plots. The result is a recruiter-friendly project that shows both statistical modeling fundamentals and reproducible analysis habits.
+This project organizes two college regression case studies into a clean, runnable R portfolio repository. I used R to prepare synthetic course datasets, check missingness, apply MICE imputation, fit simple and multiple regression models, compare transformations, run an approximate lack-of-fit test, evaluate a Box-Cox transformation, and save model outputs and diagnostic plots. The result is a recruiter-friendly project that shows both statistical modeling fundamentals and reproducible analysis habits.
 
 ### Impact / Skills Bullets
 
